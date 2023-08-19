@@ -1,0 +1,7 @@
+
+State Machine - |count_4digits|prs_state
+Name prs_state.thousand prs_state.hundred prs_state.tens prs_state.unit 
+prs_state.unit 0 0 0 0 
+prs_state.tens 0 0 1 1 
+prs_state.hundred 0 1 0 1 
+prs_state.thousand 1 0 0 1 
